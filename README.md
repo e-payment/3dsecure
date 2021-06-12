@@ -11,4 +11,4 @@ From Wikipedia, the free encyclopedia
 # JCB J/Secure
 
 # ITMX Local Switching
- - [Thailand Local Switching Secured (Debit Card)](http://www.itmx.co.th/homepage/service/readNews/id/87)
+ - [Thailand Local Switching Secured (Debit Card)](https://www.itmx.co.th/home/service/local-switching-system/)
